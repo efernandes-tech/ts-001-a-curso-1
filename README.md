@@ -4,7 +4,7 @@
 
 ```cmd
 npm install
-npm run server
+npm run start
 
 cd servidor-api
 npm install
@@ -14,4 +14,5 @@ npm install
 
 ```cmd
 npm run compile
+npm run watch
 ```
