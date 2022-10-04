@@ -14,5 +14,4 @@ npm install
 
 ```cmd
 npm run compile
-npm run watch
 ```
