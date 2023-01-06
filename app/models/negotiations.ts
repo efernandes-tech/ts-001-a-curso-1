@@ -1,3 +1,5 @@
+import { Negotiation } from "./negotiation.js";
+
 export class Negotiations {
-  // private negotiations = [];
+  private negotiations: Array<Negotiation> = [];
 }
