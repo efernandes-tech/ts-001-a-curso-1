@@ -6,7 +6,7 @@
 npm install
 npm run start
 
-cd servidor-api
+cd api-server
 npm install
 ```
 
