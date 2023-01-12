@@ -16,6 +16,7 @@ export class NegotiationController {
   add(): void {
     const negotiation = this.createNegotiation();
     this.negotiations.add(negotiation);
+    this.negotiations.list().pop();
     console.log(this.negotiations.list());
     this.clearForm();
   }
